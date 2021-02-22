@@ -11,3 +11,7 @@ console.log(`Welcome to Monday Demos`)
 let dogName= ""
 dogName = prompt("Enter the name of your favorite dog: ")
 console.log(`Welcome ${dogName}, it is good to have you here.`)
+
+
+let course = "BIA 375"
+console.log(`The current class is ${course}.`)
